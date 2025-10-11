@@ -3,7 +3,7 @@ A Student with lots of thoughts & ambition.
 
 Tech Stack (as of now): HTML, CSS, JavaScript (expanding soon).
 
-Project Experience: Just started building projects; completed a Zomato landing page clone using HTML and CSS.
+Project Experience: Just started building projects; completed Zomato & Amazon landing page clone using HTML and CSS.
 
 Interests: Music, cooking, travelling.
 
